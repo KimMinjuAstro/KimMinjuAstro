@@ -5,16 +5,16 @@
 ### ⭐에 별 걸 다 건드는 개발자입니다
 <br/>
 
-[![Email](https://img.shields.io/badge/EMAIL-astonminju%40gmail.com-FFFFFF?style=for-the-badge&labelColor=F8F9FA&color=FFF3C4)](mailto:astonminju@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-astonminju%40gmail.com-FFFFFF?style=for-the-badge&labelColor=F8F9FA&color=F9F0CD)](mailto:astonminju@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-astrominju-FFFFFF?style=for-the-badge&labelColor=F8F9FA&color=DCEEFF)](https://www.linkedin.com/in/astrominju/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-astrominju-FFFFFF?style=for-the-badge&labelColor=F8F9FA&color=E0EEFB)](https://www.linkedin.com/in/astrominju/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![YouTube](https://img.shields.io/badge/YOUTUBE-아스트로민-FFFFFF?style=for-the-badge&labelColor=F8F9FA&color=FFE0E0)](https://www.youtube.com/@AstroMinju)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-아스트로민-FFFFFF?style=for-the-badge&labelColor=F8F9FA&color=FAE3E3)](https://www.youtube.com/@AstroMinju)
 
 </div>
 <br/>
 
-## 👩‍🚀 About me
+## About me
 
 🎓 연세대학교 천문우주학 + 외교통상학 졸업
 
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-## 🪐 Currently building
+## Currently building
 
 🎨 Ren'Py로 비주얼 노벨 **PrincessMaker (PM)** 제작 중. 그런데... PM은 무슨 뜻일까?
 
@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-## 📌 Featured projects
+## Featured projects
 
 | Project | Description |
 |---|---|
@@ -43,17 +43,38 @@
 | [Embedded-Algorithm-Study](https://github.com/KimMinjuAstro/SSAFY-13th-Embedded-Algorithm-Study) | C++은 정말 재밌어. |
 <br/>
 
-## 🧰 Tech stack
+## Tech stack
 
-![Rust](https://img.shields.io/badge/Rust-FFD9B3?style=for-the-badge&logo=rust&logoColor=000000)
-![Linux](https://img.shields.io/badge/Linux-FFF3B0?style=for-the-badge&logo=linux&logoColor=000000)
-![C#](https://img.shields.io/badge/C%23-C8F7C5?style=for-the-badge&logo=c-sharp&logoColor=239120)
-![C++](https://img.shields.io/badge/C++-B2EBF2?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-B3D9FF?style=for-the-badge&logo=python&logoColor=3776AB)
-![ROS2](https://img.shields.io/badge/ROS2-D9E2F3?style=for-the-badge&logo=ros&logoColor=22314E)
+**Languages**
+
+![C/C++](https://img.shields.io/badge/C%2FC++-BDD9F6?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-D9F0D9?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![Python](https://img.shields.io/badge/Python-F9F0CD?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-FAF5CD?style=for-the-badge&logo=javascript&logoColor=000000)
+
+**Robotics & Simulation**
+
+![ROS2](https://img.shields.io/badge/ROS2-DCE3EF?style=for-the-badge&logo=ros&logoColor=22314E)
+![Navigation2](https://img.shields.io/badge/Navigation2-BCECE4?style=for-the-badge)
+![SLAM](https://img.shields.io/badge/SLAM-E2D9F9?style=for-the-badge)
+![Gazebo](https://img.shields.io/badge/Gazebo-F6D9BD?style=for-the-badge)
+
+**Dev Environment**
+
+![Linux](https://img.shields.io/badge/Linux-F7EEBC?style=for-the-badge&logo=linux&logoColor=000000)
+![Qt Creator](https://img.shields.io/badge/Qt_Creator-D9F0D9?style=for-the-badge&logo=qt&logoColor=41CD52)
+
+**Embedded & Hardware**
+
+![Jetson Orin/Nano](https://img.shields.io/badge/Jetson_Orin%2FNano-CCEFC9?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-F8D9D9?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+![STM32](https://img.shields.io/badge/STM32-D4E2EF?style=for-the-badge&logo=stmicroelectronics&logoColor=03234B)
+![Renesas](https://img.shields.io/badge/Renesas-E3E8FA?style=for-the-badge)
+![LiDAR](https://img.shields.io/badge/LiDAR-E0E0E0?style=for-the-badge)
+<br/>
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
