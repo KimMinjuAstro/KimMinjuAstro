@@ -78,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KimMinjuAstro&theme=default&hide_border=true&background=FFFFFF&stroke=E4E2E2&ring=24292F&fire=24292F&currStreakLabel=24292F&sideLabelColor=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=KimMinjuAstro&theme=default&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=57606A&icon_color=57606A&show_icons=true" height="165"/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KimMinjuAstro&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=57606A" height="165"/>
 
