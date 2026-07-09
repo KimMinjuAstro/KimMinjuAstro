@@ -38,7 +38,7 @@
 
 | Project | Description |
 |---|---|
-| [Quota](https://github.com/KimMinjuAstro/Quota) | 흩어진 AI 쿼터, 한눈에 샥. AI 사용량 한눈에 보기 |
+| [Quota](https://github.com/KimMinjuAstro/Quota-Releases) | 흩어진 AI 쿼터, 한눈에 샥. AI 사용량 한눈에 보기 |
 | [이세계 저세계](https://github.com/KimMinjuAstro/TheOtherWorld) | 저세계에서도 뱀서라이크가 유행?! |
 | [Embedded-Algorithm-Study](https://github.com/KimMinjuAstro/SSAFY-13th-Embedded-Algorithm-Study) | C++은 정말 재밌어. |
 <br/>
